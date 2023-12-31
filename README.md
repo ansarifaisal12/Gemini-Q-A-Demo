@@ -1,5 +1,6 @@
 # Gemini-Q-A-Demo
-![Uploading -1x-1.jpg…]()
+  ![Uploading -1x-1.jpg…]()
+
 
 This application utilizes the Gemini API by Google's GenerativeAI to provide responses to questions using language generation models.
 # Introduction
